@@ -6,7 +6,7 @@
 
 #target
 /target
-.idea
+.idea/workspace.xml
 
 # BlueJ files
 *.ctxt
