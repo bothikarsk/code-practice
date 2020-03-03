@@ -3,7 +3,7 @@ import java.util.Arrays;
 public class StringAnagram {
     public static void main(String[] args) {
         String word1 = "silent";
-        String word2 ="listenoi";
+        String word2 ="listen";
 
         System.out.println("Is Anagram: "+isAnagram(word1,word2));
 
